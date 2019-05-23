@@ -1,0 +1,1 @@
+[{"label": "cup", "confidence": 0.91, "topleft": {"x": 1026, "y": 155}, "bottomright": {"x": 1673, "y": 2623}}, {"label": "seedling", "confidence": 0.53, "topleft": {"x": 0, "y": 0}, "bottomright": {"x": 975, "y": 4031}}, {"label": "seedling", "confidence": 0.64, "topleft": {"x": 0, "y": 69}, "bottomright": {"x": 923, "y": 2495}}]
